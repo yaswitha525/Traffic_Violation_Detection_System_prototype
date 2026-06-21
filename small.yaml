@@ -1,0 +1,5 @@
+train: c:/Users/bhagy/Downloads/archive (6)/master_traffic_violation_dataset/train/images
+val: c:/Users/bhagy/Downloads/archive (6)/master_traffic_violation_dataset/valid/images
+test: c:/Users/bhagy/Downloads/archive (6)/master_traffic_violation_dataset/test/images
+nc: 4
+names: [Plate, WithHelmet, WithoutHelmet, TripleRiding]
